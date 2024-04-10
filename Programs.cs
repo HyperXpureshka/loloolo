@@ -2601,16 +2601,6 @@ internal static class ProgramHelpers
     //    Console.WriteLine("Исходный массив двоичных чисел:");
     //    PrintList(binaryArray);
 
-
-    //    int limit = 2;
-    //    var result = binaryArray.GroupBy(x => x)
-
-    //                            .Where(g => g.Count() <= limit)
-
-    //                            .SelectMany(g => g)
-
-    //                            .ToList();
-
     //    Console.WriteLine("\nМассив после удаления элементов, встречающихся более двух раз:");
 
     //    PrintList(result);
